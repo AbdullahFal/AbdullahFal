@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AbdullahFal
+- 👀 I’m interested many fields of computer science like AI and Web development
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on something intresting
+- 📫 Reach me on abdullh_eyad@hotmail.com 
