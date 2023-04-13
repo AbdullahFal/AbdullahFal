@@ -1,4 +1,3 @@
-<img src="img_4304.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahfal&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahfal" /> </p>
 
