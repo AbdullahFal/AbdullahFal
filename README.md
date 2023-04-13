@@ -1,6 +1,5 @@
-[![MasterHead](img_4304.jpg)](https://abdullahfal.io)
+<img src="img_4304.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-(img src="img_4304.jpg")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahfal&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahfal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdullaheyad11" target="blank"><img src="https://img.shields.io/twitter/follow/abdullaheyad11?logo=twitter&style=for-the-badge" alt="abdullaheyad11" /></a> </p>
